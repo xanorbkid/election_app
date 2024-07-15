@@ -1,0 +1,27 @@
+{
+  "name": "election_app",
+  "version": "1.0.0",
+  "description": "A platform that allows user to vote and see election result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanorbkid/election_app.git"
+  },
+  "keywords": [
+    "npm",
+    "run",
+    "start"
+  ],
+  "author": "xanorbkid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xanorbkid/election_app/issues"
+  },
+  "homepage": "https://github.com/xanorbkid/election_app#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
